@@ -5,28 +5,14 @@
 <h1 align="center">Hi 👋, I'm <a href="https://portfolio-vulebaolong.netlify.app/" target="_blank">NGUYEN ANH TUAN</a></h1>
 <h5 align="center">A passionate web developer from Viet Nam</h5>
 
-## Profile Views:
-
-<table>
-    <tr>
-        <th>Total Count</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/vulebaolong"> <img src="https://komarev.com/ghpvc/?username=vulebaolong&style=for-the-badge&color=brightgreen" /> </a>
-        </td>
-    </tr>
-</table>
-
 ## What I'm Doing:
 
 <img align="right" width="400" src="./asset/item4_4.gif" alt="coding" />
 
--   🌱 I’m currently learning **BackEnd Developer**
--   💬 Ask me about **MERN**
--   🌐 Personal website: **<a href="https://portfolio-vulebaolong.netlify.app/">vulebaolong</a>**
--   📫 How to reach me **vulebaolong@gmail.com**
--   📄 My CV: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="_blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="_blank">VI</a>**
+-   🌱 I’m currently learning **FullStack Developer**
+-   💬 Ask me about **How to learn by yourself**
+-   📫 How to reach me **nguyeanhtuan.forwork@gmail.com**
+-   📄 My CV: **<a href="" target="_blank">EN</a>** / **<a href="" target="_blank">VI</a>**
 -   ⚡ Fun fact **I think I am funny**
 
 ## Connect with me:
@@ -48,8 +34,3 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=anhtuancode&icon=0&color=0)](https://visitcount.itsvg.in)
